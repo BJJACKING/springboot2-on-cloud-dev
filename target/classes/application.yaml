@@ -1,0 +1,5 @@
+
+#Set web-application-type to none then develop general application, does not contain WEB
+#If need to develop web application,Commented-Out it or set to servlet
+
+
